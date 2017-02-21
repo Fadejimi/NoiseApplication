@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NoiseApplication</string>
+    <string name="nav_logout">Logout</string>
+
+    <string name="nav_world_data">World Data</string>
+    <string name="nav_join_online">Join Network</string>
+    <string name="nav_home">Home</string>
+
+    <string-array name="nav_items">
+        <item>@string/nav_home</item>
+        <item>@string/nav_join_online</item>
+        <item>@string/nav_world_data</item>
+    </string-array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
